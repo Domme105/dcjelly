@@ -1,6 +1,6 @@
 /* Replace Logo with jellyfin logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://cdn.jsdelivr.net/gh/Domme105/dcjelly@main/sb.png");
+    --logo: url("https://cdn.jsdelivr.net/gh/Domme105/dcjelly@refs/heads/main/dclogo.png");
 }
 
 .pageTitleWithDefaultLogo {
